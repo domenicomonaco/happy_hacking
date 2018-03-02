@@ -15,7 +15,7 @@ Domenico Monaco, hack@kiuz.it
 
 # How to Contribute
 	* 1° Step - Fork this project
-	* 2° Step - Create a subfolder named as: NO_<0-999>_<a-z.A-Z>
+	* 2° Step - Create a subfolder named as: NO_<000-999>_<a-zA-Z>
 	* 3° Step - Create README.md file with description and put in a previous created folder
 	* 4° Step - Update 'Contents' section of this file with your information
 	* 5° Step - Commit your changes
@@ -24,9 +24,9 @@ Domenico Monaco, hack@kiuz.it
 
 ## Contents
 ### Art Work NO.1
-	* Type: Poster
-	* Title: Happy Hacking
-	* Description: Idea of life and everything 
+	* Type: Vectorial Poster
+	* Title: Hackers about everything of life
+	* Description:Vectorial Poster of idea of life and everything 
 	* Author: Domenico Monaco, hack@kiuz.it
 	* Date: 01/02/2018
 	* License: Same of entire project

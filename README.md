@@ -14,15 +14,12 @@ You must think the Idea as Software. And for the same reason the Ideas must be a
 	meaning of life, the universe, and everything.[1]
 	Keep calm and Happy Hacking.[2]
 
-	### Reference:
+#### Reference
 	1. ^ Adams, Douglas (1979). The Hitchhiker's Guide to the Galaxy. 
 	ISBN 0-671-46149-4.
 	2. ^ Richard Stallman (1970). Famous closing sentence coined by Richard 
 	Stallman and used by him in e-mails, conversations and talks. 
 	https://stallman.org/articles/happy-hacking.html
-
-
-  License: Creative Commons Attribution Share Alike 4.0
 
 ## Licence 
 	

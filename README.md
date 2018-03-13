@@ -7,11 +7,12 @@ This is an idea and in a same time an Art Installation. This is also an Artwork.
 You must think the Idea as Software. And for the same reason the Ideas must be are free and open. Fork and develop this idea like an freeware software.
 
 ## Licence 
-Creative Commons Attribution Share Alike 4.0
--- 
+	
+	Creative Commons Attribution Share Alike 4.0
+
 
 ## Author 
-Domenico Monaco, hack@kiuz.it
+	Domenico Monaco, hack@kiuz.it
 
 # How to Contribute
 	* 1° Step - Fork this project

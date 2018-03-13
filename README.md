@@ -7,7 +7,7 @@ This is an idea and in a same time an Art Installation. This is also an Artwork.
 You must think the Idea as Software. And for the same reason the Ideas must be are free and open. Fork and develop this idea like an freeware software.
 
 ## Licence 
-Not defined now
+Creative Commons Attribution Share Alike 4.0
 -- 
 
 ## Author 
@@ -29,4 +29,4 @@ Domenico Monaco, hack@kiuz.it
 	* Description:Vectorial Poster of idea of life and everything 
 	* Author: Domenico Monaco, hack@kiuz.it
 	* Date: 01/02/2018
-	* License: Same of entire project
+	* License: Creative Commons Attribution Share Alike 4.0
